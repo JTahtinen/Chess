@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"chrono": "cpp",
+			"limits": "cpp",
+			"utility": "cpp",
+			"xutility": "cpp",
+			"xiosbase": "cpp"
+		}
+	}
+}
